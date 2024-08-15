@@ -1,5 +1,7 @@
-University homework repository
-and this file is README.md
+# University homework repository
+
+- Java programming homework
+  and this file is README.md
 
 ```
 
